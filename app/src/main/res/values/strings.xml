@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsClient_ProjectOne</string>
+    <string name="title_activity_news_read">NewsReadActivity</string>
+</resources>
